@@ -1,0 +1,21 @@
+
+6. Printing statistics.
+
+=== main ===
+
+   Number of wires:                 27
+   Number of wire bits:             88
+   Number of public wires:          27
+   Number of public wire bits:      88
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 40
+     FDRE                           21
+     LUT2                            5
+     LUT3                            2
+     LUT4                            4
+     LUT5                            2
+     LUT6                            5
+     MUXF7                           1
+
